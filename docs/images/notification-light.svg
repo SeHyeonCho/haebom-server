@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 492" width="920" height="492" role="img" aria-label="푸시 알림 모듈 계층 구조" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif">
+<style>.s-line{stroke:#A39279}.s-brand{stroke:#F08A16}.s-push{stroke:#2FA56A}</style>
+<defs><filter id="sh" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#7A5014" flood-opacity="0.10"/></filter><marker id="ah-line" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1,1.2 L9,5 L1,8.8 Z" fill="#A39279"/></marker><marker id="ah-brand" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1,1.2 L9,5 L1,8.8 Z" fill="#F08A16"/></marker><marker id="ah-push" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1,1.2 L9,5 L1,8.8 Z" fill="#2FA56A"/></marker></defs>
+<rect x="0.5" y="0.5" width="919" height="491" rx="20" fill="#FFFBF3" stroke="#F1E4CB"/>
+<rect x="24" y="28" width="872" height="84" rx="16" fill="#F8F2E7" stroke="#EFE4D0" stroke-width="1.2"/>
+<rect x="24" y="134" width="872" height="112" rx="16" fill="#FFF3DD" stroke="#FFCE87" stroke-width="1.2"/>
+<rect x="24" y="264" width="872" height="96" rx="16" fill="#FFF3DD" stroke="#FFCE87" stroke-width="1.2"/>
+<rect x="24" y="380" width="872" height="88" rx="16" fill="#F8F2E7" stroke="#EFE4D0" stroke-width="1.2"/>
+<text x="42" y="69.0" font-size="12" font-weight="700" fill="#2B2118" text-anchor="start">도메인 · 스케줄러</text><text x="42" y="87.0" font-size="11" font-weight="400" fill="#7C6B57" text-anchor="start">팀원 담당 영역</text>
+<text x="42" y="189.0" font-size="12" font-weight="700" fill="#F08A16" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">global/notification</text><text x="42" y="207.0" font-size="11" font-weight="600" fill="#9A5300" text-anchor="start">직접 구현</text>
+<text x="42" y="311.0" font-size="12" font-weight="700" fill="#F08A16" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">infra/fcm</text><text x="42" y="329.0" font-size="11" font-weight="600" fill="#9A5300" text-anchor="start">직접 구현</text>
+<text x="42" y="423.0" font-size="12" font-weight="700" fill="#2B2118" text-anchor="start">외부 시스템</text><text x="42" y="441.0" font-size="11" font-weight="400" fill="#7C6B57" text-anchor="start">MySQL · Firebase</text>
+<path d="M304.0,100 L304.0,145" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-line" marker-end="url(#ah-line)"/>
+<path d="M304.0,234 L304.0,275" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<path d="M304.0,348 L304.0,391" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<path d="M538.0,100 L538.0,145" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-line" marker-end="url(#ah-line)"/>
+<path d="M538.0,234 L538.0,275" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<path d="M538.0,348 L538.0,391" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<path d="M772.0,100 L772.0,145" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-line" marker-end="url(#ah-line)"/>
+<path d="M772.0,234 L772.0,275" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<path d="M772.0,348 L772.0,391" fill="none" stroke-width="1.7" stroke-linecap="round" class="s-brand" marker-end="url(#ah-brand)"/>
+<rect x="196" y="44" width="216" height="52" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="304.0" y="74.5" font-size="12.5" font-weight="600" fill="#2B2118" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">PushNotificationScheduler</text>
+<rect x="430" y="44" width="216" height="52" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="538.0" y="74.5" font-size="12.5" font-weight="600" fill="#2B2118" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">HabitScheduler</text>
+<rect x="664" y="44" width="216" height="52" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="772.0" y="74.5" font-size="12.5" font-weight="600" fill="#2B2118" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">HabitService</text>
+<rect x="196" y="150" width="684" height="80" rx="14" fill="#FFFFFF" stroke="#FFCE87" stroke-width="1.2" filter="url(#sh)"/>
+<text x="216" y="183" font-size="15" font-weight="700" fill="#2B2118" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">NotificationService</text>
+<rect x="439.5" y="166" width="89.2" height="24" rx="12.0" fill="#FFF1D9"/><text x="484.2" y="182.0" font-size="11.5" font-weight="600" fill="#9A5300" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">sendToUser</text><rect x="536.8" y="166" width="96.2" height="24" rx="12.0" fill="#FFF1D9"/><text x="584.8" y="182.0" font-size="11.5" font-weight="600" fill="#9A5300" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">sendToUsers</text><rect x="640.9" y="166" width="96.2" height="24" rx="12.0" fill="#FFF1D9"/><text x="689.0" y="182.0" font-size="11.5" font-weight="600" fill="#9A5300" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">sendToTopic</text><rect x="745.1" y="166" width="116.9" height="24" rx="12.0" fill="#FFF1D9"/><text x="803.5" y="182.0" font-size="11.5" font-weight="600" fill="#9A5300" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">subscribeTopic</text>
+<text x="216" y="210" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">userId만 넘기면 전송  ·  기기 단위 실패 격리  ·  무효 토큰 자동 삭제  ·  토큰 로그 마스킹</text>
+<rect x="196" y="280" width="216" height="64" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="214" y="307" font-size="13.5" font-weight="700" fill="#2B2118" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">FcmTokenService</text>
+<text x="214" y="327" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">토큰 등록 · 조회 · 삭제</text>
+<rect x="430" y="280" width="216" height="64" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="448" y="307" font-size="13.5" font-weight="700" fill="#2B2118" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">FcmSendService</text>
+<text x="448" y="327" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">토큰 · 토픽 전송</text>
+<rect x="664" y="280" width="216" height="64" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<text x="682" y="307" font-size="13.5" font-weight="700" fill="#2B2118" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">FcmTopicService</text>
+<text x="682" y="327" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">토픽 구독 · 해제</text>
+<rect x="196" y="396" width="216" height="56" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<g transform="translate(210,408)"><rect width="32" height="32" rx="9" fill="#4A86B8"/><g transform="translate(6.0,6.0)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="10" cy="5" rx="6" ry="2.5"/><path d="M4 5v10c0 1.4 2.7 2.5 6 2.5s6-1.1 6-2.5V5"/><path d="M4 10c0 1.4 2.7 2.5 6 2.5s6-1.1 6-2.5"/></g></g>
+<text x="254" y="421" font-size="13.5" font-weight="700" fill="#2B2118" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">fcm_tokens</text>
+<text x="254" y="439" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">MySQL</text>
+<rect x="430" y="396" width="450" height="56" rx="12" fill="#FFFFFF" stroke="#EBDDC4" stroke-width="1.2" filter="url(#sh)"/>
+<g transform="translate(444,408)"><rect width="32" height="32" rx="9" fill="#F5820B"/><g transform="translate(6.0,6.0)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3a4.5 4.5 0 0 0-4.5 4.5c0 4-1.5 5.2-1.5 5.2h12s-1.5-1.2-1.5-5.2A4.5 4.5 0 0 0 10 3z"/><path d="M8.4 15.6a1.7 1.7 0 0 0 3.2 0"/></g></g>
+<text x="488" y="421" font-size="13.5" font-weight="700" fill="#2B2118" text-anchor="start">Firebase Admin SDK</text>
+<text x="488" y="439" font-size="12" font-weight="400" fill="#7C6B57" text-anchor="start">Firebase Cloud Messaging으로 발송</text>
+</svg>
